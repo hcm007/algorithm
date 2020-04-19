@@ -2,5 +2,5 @@ version: "4"
 
 services:
 
-    traefik:
+    traefik: traefik:1.5
 
