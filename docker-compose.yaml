@@ -3,4 +3,5 @@ version: "4"
 services:
 
     traefik:
+      image: traefik:2.0
 
