@@ -2,3 +2,5 @@ version: "4"
 
 services:
 
+    traefik:
+
